@@ -1,0 +1,5 @@
+[
+  { "name": "Житомир", "pressure": 1027, "humidity": 24, "temperature": 11 },
+  { "name": "Київ", "pressure": 1027, "humidity": 24, "temperature": 11 },
+  { "name": "Тернопіль", "pressure": 1027, "humidity": 24, "temperature": 11 }
+]
